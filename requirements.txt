@@ -9,6 +9,6 @@ mypy-extensions==0.4.3
 pymongo==4.3.3
 tomli==2.0.1
 typing_extensions==4.4.0
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 gunicorn
 python-dotenv
